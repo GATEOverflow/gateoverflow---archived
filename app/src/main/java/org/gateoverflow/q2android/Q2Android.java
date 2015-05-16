@@ -1635,14 +1635,23 @@ public class Q2Android extends SherlockListActivity {
             @Override
             public void run() {
                 try {
-                    Bundle bnd = future.getResult();
-                    String[] creds = bnd.getString(AccountManager.KEY_ACCOUNT_NAME).split("@");
-                    
-                    SharedPreferences.Editor editor = prefs.edit();
-                    editor.putString("username",creds[0]);
-                    editor.putString("website",creds[1]);
-                    editor.putString("password",bnd.getString(AccountManager.KEY_AUTHTOKEN));
-                    editor.commit();
+                    //Bundle bnd = future.getResult();
+                    //String[] creds = bnd.getString(AccountManager.KEY_ACCOUNT_NAME).split("@");
+					Bundle bnd = future.getResult();
+					//  String[] creds = bnd.getString(AccountManager.KEY_ACCOUNT_NAME).split("@");
+
+					SharedPreferences.Editor editor = prefs.edit();
+					// editor.putString("username",creds[0]);
+					//editor.putString("website",creds[1]);
+					editor.putString("username", bnd.getString(AccountManager.KEY_ACCOUNT_NAME));
+					editor.putString("website", Q2AWebsite.getWebsite(null));
+					editor.putString("password", bnd.getString(AccountManager.KEY_AUTHTOKEN));
+					editor.commit();
+                    //SharedPreferences.Editor editor = prefs.edit();
+                    //editor.putString("username",creds[0]);
+                    //editor.putString("website", creds[1]);
+                    //editor.putString("password", bnd.getString(AccountManager.KEY_AUTHTOKEN));
+                    //editor.commit();
                     Message msg = new Message();
                     msg.what = MSG_SCOPE;
                     msg.arg1 = currentScope;

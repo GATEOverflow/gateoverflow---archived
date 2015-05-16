@@ -9,7 +9,7 @@ import android.preference.PreferenceManager;
 public class Q2AWebsite {
 
 	// set this if you are hardcoding a website into your app
-	public final static String CUSTOM_WEBSITE = null;
+	public final static String CUSTOM_WEBSITE = "http://gateoverflow.in";
 	
 	public static String getWebsite(Context context) {
 		
