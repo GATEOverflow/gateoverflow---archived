@@ -82,7 +82,7 @@ public class AuthenticatorActivity extends AccountAuthenticatorActivity {
 
         Bundle data = new Bundle();
         data.putString(AccountManager.KEY_AUTHTOKEN, userPass);
-        data.putString(AccountManager.KEY_ACCOUNT_NAME, userName+"@"+userSite);
+        data.putString(AccountManager.KEY_ACCOUNT_NAME, userName);//+"@"+userSite);
         data.putString(AccountManager.KEY_ACCOUNT_TYPE, accountType);
         data.putString(PARAM_USER_PASS, userPass);
 
