@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
       package="org.gateoverflow.q2android"
       android:versionName="1.2"
-      android:versionCode="4">
+      android:versionCode="5">
     
 	<uses-sdk android:minSdkVersion="8" android:targetSdkVersion="17" />
 	<uses-permission android:name="android.permission.INTERNET" />

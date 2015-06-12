@@ -1201,8 +1201,7 @@ public class Q2Android extends SherlockListActivity {
                                 answerWebView.loadUrl("javascript:MathJax.Hub.Queue(['Typeset',MathJax.Hub]);");
                             }
 
-                            answeredWebView.evaluateJavascript("javascript:document.getElementById('math').innerHTML='"+doubleEscapeTeX(responce)+"';",null);
-                            answeredWebView.evaluateJavascript("javascript:MathJax.Hub.Queue(['Typeset',MathJax.Hub]);", null);
+
                         }
                     });
 
