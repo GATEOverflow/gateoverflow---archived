@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home/shabana/android-Projects/gateoverflow/app/src/main/res/values-v11/styles.xml -->
+    <!-- From: file:/home/arjun/Downloads/gateoverflow/app/src/main/res/values-v11/styles.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
         <!-- API 11 theme customizations can go here. -->
@@ -10,7 +10,7 @@
     	<item name="android:background">@drawable/actionbar_back</item>
     	<item name="android:titleTextStyle">@style/TitleTextStyle</item>
     </style>
-    <!-- From: file:/home/shabana/android-Projects/gateoverflow/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values-v11/values.xml -->
+    <!-- From: file:/home/arjun/Downloads/gateoverflow/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values-v11/values.xml -->
     <eat-comment/>
     <style name="Sherlock.__Theme" parent="android:Theme.Holo">
         <item name="android:windowNoTitle">true</item>
@@ -20,7 +20,7 @@
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowActionBar">false</item>
     </style>
-    <!-- From: file:/home/shabana/android-Projects/gateoverflow/app/src/main/res/values-v11/styles.xml -->
+    <!-- From: file:/home/arjun/Downloads/gateoverflow/app/src/main/res/values-v11/styles.xml -->
     <eat-comment/>
     <style name="TitleTextStyle" parent="@android:style/Widget.Holo.Light.ActionBar">
 		<item name="android:textColor">#FFFFFF</item>

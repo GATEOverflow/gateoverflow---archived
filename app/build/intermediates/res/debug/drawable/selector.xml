@@ -7,4 +7,4 @@
     <item android:drawable="@drawable/selected"
           android:state_selected="true" />
     <item android:drawable="@drawable/select" />
-</selector><!-- From: file:/home/shabana/android-Projects/gateoverflow/app/src/main/res/drawable/selector.xml -->
+</selector><!-- From: file:/home/arjun/Downloads/gateoverflow/app/src/main/res/drawable/selector.xml -->

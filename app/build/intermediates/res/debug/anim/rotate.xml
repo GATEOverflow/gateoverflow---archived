@@ -8,4 +8,4 @@
         android:duration="1000"
         android:interpolator="@android:anim/linear_interpolator" />
 
-<!-- From: file:/home/shabana/android-Projects/gateoverflow/app/src/main/res/anim/rotate.xml -->
+<!-- From: file:/home/arjun/Downloads/gateoverflow/app/src/main/res/anim/rotate.xml -->
