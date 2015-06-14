@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home/arjun/Downloads/gateoverflow/app/src/main/res/values-sw800dp-land/dimen.xml -->
+    <!-- From: file:/home/shabana/android-Projects/gateoverflow/app/src/main/res/values-sw800dp-land/dimen.xml -->
     <eat-comment/>
     <dimen name="aavatar_size">48dp</dimen>
     <dimen name="box_font">24sp</dimen>

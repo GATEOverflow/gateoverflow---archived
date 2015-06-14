@@ -2,39 +2,39 @@
 <items version="2" >
 
     <item
-        jar="/home/arjun/Downloads/gateoverflow/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="af64527b748983a75de9c0756e9768b56b240a49">
-        <dex dex="/home/arjun/Downloads/gateoverflow/app/build/intermediates/pre-dexed/debug/classes-8236ac8d01d6abc66f8f9de0433c93ec93eb647b.jar" />
-    </item>
-    <item
-        jar="/home/arjun/Downloads/gateoverflow/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="/home/arjun/Downloads/gateoverflow/app/build/intermediates/pre-dexed/debug/classes-f9de136f530ad59b37dcc852eead0fc14f92117e.jar" />
-    </item>
-    <item
-        jar="/home/arjun/Downloads/gateoverflow/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="/home/arjun/Downloads/gateoverflow/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-fd8898ae8cb6de53712e1f9a52f59c984e18f7da.jar" />
-    </item>
-    <item
-        jar="/home/arjun/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jar="/home/shabana/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="/home/arjun/Downloads/gateoverflow/app/build/intermediates/pre-dexed/release/support-annotations-21.0.3-44e44c704e17810312679908101897880668470d.jar" />
+        <dex dex="/home/shabana/android-Projects/gateoverflow/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-16bbabde4227a0e69e9632ca12059863fc767839.jar" />
     </item>
     <item
-        jar="/home/arjun/Downloads/gateoverflow/app/build/intermediates/exploded-aar/com.jeremyfeinstein.slidingmenu/library/1.3/classes.jar"
+        jar="/home/shabana/android-Projects/gateoverflow/app/build/intermediates/exploded-aar/com.jeremyfeinstein.slidingmenu/library/1.3/classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="0e4072fd48238419f424a112fdeb828d91f69e1a">
-        <dex dex="/home/arjun/Downloads/gateoverflow/app/build/intermediates/pre-dexed/debug/classes-46f7324d598b2c8185a0247175d0b12f11e452e4.jar" />
+        <dex dex="/home/shabana/android-Projects/gateoverflow/app/build/intermediates/pre-dexed/debug/classes-d361d9d5611caba6bf940b06597805c16d87f74d.jar" />
+    </item>
+    <item
+        jar="/home/shabana/android-Projects/gateoverflow/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/shabana/android-Projects/gateoverflow/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-f4e67398c0bba0e62b8943f7fb64f2afe50026f6.jar" />
+    </item>
+    <item
+        jar="/home/shabana/android-Projects/gateoverflow/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex dex="/home/shabana/android-Projects/gateoverflow/app/build/intermediates/pre-dexed/debug/classes-5284d11f10437fc56e4dac1ba10fb6b13185d488.jar" />
+    </item>
+    <item
+        jar="/home/shabana/android-Projects/gateoverflow/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/shabana/android-Projects/gateoverflow/app/build/intermediates/pre-dexed/debug/classes-0999779ca27f8090d086fd699bd79d71dd0c7f81.jar" />
     </item>
 
 </items>
